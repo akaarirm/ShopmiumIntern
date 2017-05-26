@@ -1,6 +1,3 @@
-@coord = [@userCoord.lat, @userCoord.lng]
-
-
 # README
 
 Bienvenue à cette petite application conçu pour gérer la base des données qui contient la liste des magasins partenaires de Shopmium.
